@@ -21,5 +21,4 @@
 ||school.apple.com^
 ||business.apple.com^
 ||ge-halle.nfs-mdm.de^
-||mesu.apple.com^
-||ocsp2.apple.com^
+||apple.com^
