@@ -20,3 +20,4 @@
 ||gs.apple.com^
 ||school.apple.com^
 ||business.apple.com^
+||ge-halle.nfs-mdm.de^
