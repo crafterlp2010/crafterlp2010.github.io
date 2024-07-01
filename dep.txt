@@ -21,8 +21,5 @@
 ||school.apple.com^
 ||business.apple.com^
 ||ge-halle.nfs-mdm.de^
-||mesu.apple.com^
-||xp.apple.com^
-||configuration.apple.com^
-||gsa.apple.com^
+||albert.apple.com^
 
