@@ -17,9 +17,10 @@
 ! License: https://gitlab.com/malware-filter/urlhaus-filter#license
 ! Source: https://urlhaus.abuse.ch/api/
 ||deploy.apple.com^
-||gs.apple.com^
 ||school.apple.com^
 ||business.apple.com^
 ||ge-halle.nfs-mdm.de^
-||albert.apple.com^
+||deviceenrollment.apple.com^
+||mdmenrollment.apple.com^
+||vpp.itunes.apple.com^
 
