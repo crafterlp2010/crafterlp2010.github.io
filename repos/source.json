@@ -13,6 +13,7 @@
         {
             "name": "Test App",
             "bundleIdentifier": "CrafterLP-Studios.Test-App",
+            "marketplaceID": "CrafterLP-Studios.Test-App",
             "developerName": "Colin-Joel Scupin",
             "subtitle": "Test App.",
             "localizedDescription": "This is an awesome app only available on AltStore.",
