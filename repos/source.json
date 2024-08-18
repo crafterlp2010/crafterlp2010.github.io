@@ -7,14 +7,14 @@
     "website": "https://example.com",
     "tintColor": "#4185A9",
     "featuredApps": [
-        "com.example.myapp"
+        "CrafterLP-Studios.Test-App"
     ],
     "apps": [
         {
-            "name": "Glückspilz",
-            "bundleIdentifier": "com.example.myapp",
-            "developerName": "Selcuk Erdem",
-            "subtitle": "Deine Portion Glueck.",
+            "name": "Test App",
+            "bundleIdentifier": "CrafterLP-Studios.Test-App",
+            "developerName": "Colin-Joel Scupin",
+            "subtitle": "Test App.",
             "localizedDescription": "This is an awesome app only available on AltStore.",
             "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
             "tintColor": "#5CA399",
@@ -29,20 +29,13 @@
             ],
             "versions": [
                 {
-                    "version": "1.1",
+                    "version": "1.0",
                     "date": "2022-05-01T09:00:00-08:00",
                     "size": 20000000,
                     "downloadURL": "https://example.com/myapp_v1.1.ipa",
                     "localizedDescription": "New features and bug fixes.",
-                    "minOSVersion": "12.0"
+                    "minOSVersion": "15.0"
                 },
-                {
-                    "version": "1.0",
-                    "date": "2022-03-16T07:00:00-08:00",
-                    "size": 10000000,
-                    "downloadURL": "https://und3fy-my.sharepoint.com/personal/nov19_und3fy_dev/_layouts/15/download.aspx?share=EQu7pR8kpfdNkRIOezYRTbYBndhuArRaWN-Ys3ORcYAr1g",
-                    "localizedDescription": "Initial release."
-                }
             ],
             "appPermissions": {
                 "entitlements": [
@@ -58,16 +51,6 @@
         },
     ],
     "news": [
-        {
-            "title": "New Feature Announcement",
-            "identifier": "new_feature",
-            "caption": "Introducing a new feature in AltStore!",
-            "date": "2023-03-15",
-            "tintColor": "#5CA399",
-            "imageURL": "https://example.com/new_feature_image.png",
-            "notify": true,
-            "url": "https://example.com/new_feature_details"
-        },
         {
             "title": "App Update Available",
             "identifier": "app_update",
